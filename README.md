@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+So good to see ya here! 
+- 🔭 I’m currently working on GitHub.
+- 🌱 I’m currently learning Swift and Combine.
+- 💬 Ask me about Skype, GroupMe, Wunderlist, Microsoft To Do, GitHub!
+- 😄 Pronouns: He/Him
+
+
+
+
 <!--
 **amrehman/amrehman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
