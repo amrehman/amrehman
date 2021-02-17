@@ -6,8 +6,6 @@ So good to see ya here!
 - 💬 Ask me about Skype, GroupMe, Wunderlist, Microsoft To Do, GitHub!
 - 😄 Pronouns: He/Him
 
-Here is a big rant. 
-
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed porta lacus nec turpis mattis, quis finibus ligula porta. Nam mollis ac dui non rhoncus. Proin ut mattis sem. Nunc ut ullamcorper nibh. Nullam est ante, egestas eget semper sit amet, egestas vel sapien. Nullam sit amet eros est. Curabitur posuere nunc a augue bibendum, a porta mi suscipit. Vestibulum vitae condimentum nisl. Nunc gravida fermentum dolor scelerisque vestibulum. Duis vulputate tellus eu dui malesuada, semper sagittis mi aliquam. Vestibulum iaculis leo nec euismod tincidunt. Integer mattis risus non ligula mollis, sed pretium massa aliquet.
 
 Nunc commodo ante et mauris tincidunt, ac vestibulum ligula viverra. Vivamus vehicula imperdiet nisl non maximus. Morbi malesuada lectus metus, id laoreet orci fermentum vel. Nam nec diam eget magna ullamcorper convallis sit amet non eros. Fusce ante tellus, bibendum sed augue eget, porttitor fermentum est. Donec et hendrerit leo. Curabitur molestie augue vestibulum, pellentesque lorem sed, malesuada dolor. Donec sed turpis porttitor, posuere lectus in, egestas magna. Nullam tempor enim eget pharetra cursus. Aliquam erat volutpat. Vestibulum pretium dui vitae iaculis molestie. Praesent mollis congue magna, at vulputate leo porta luctus.
